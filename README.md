@@ -1,5 +1,9 @@
-## Flex-Grid.io
+## Simple Resets
 
-### Lightweight, modern grid and CSS resets.
+### Lightweight CSS resets.
 
-- Easily download the package and or install via NPM (coming soon).
+- Lightweight boilerplate CSS resets.
+- Resets font sizes
+- Sets border-box box sizing
+- Resets lists
+- Sets simple container based on Google Material Design Breakpoints
