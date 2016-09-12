@@ -1,6 +1,6 @@
 ## Simple Resets
 
-### Lightweight CSS resets.
+### Lightweight SCSS resets.
 
 - Resets font sizes
 - Sets border-box box sizing
