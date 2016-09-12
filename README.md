@@ -2,7 +2,6 @@
 
 ### Lightweight CSS resets.
 
-- Lightweight boilerplate CSS resets.
 - Resets font sizes
 - Sets border-box box sizing
 - Resets lists
