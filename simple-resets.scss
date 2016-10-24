@@ -1,5 +1,5 @@
 // Simple Resets
-// * Lightweight boilerplate CSS resets.
+// * Lightweight boilerplate SCSS resets.
 // * Resets font sizes
 // * Sets border-box box sizing
 // * Resets lists
@@ -55,6 +55,12 @@ h6 {
 
 // Simple Button
 button {
+  border: 0;
+  outline: none;
+}
+
+// Simple Input
+input {
   border: 0;
   outline: none;
 }
